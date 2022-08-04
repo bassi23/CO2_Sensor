@@ -8,6 +8,8 @@ Messwerte: CO2, Temperatur, Luftfeuchte in Form
 Der Sensor nimmt ca. alle 0.5 - 2 Sekunden Messwerte auf (sobald verfügbar) und gibt sie über den COM-Port aus.
 Das Programm soll diese Daten abgreifen.
 
+Bisher haben wir einen ESP8266 als Mikrocontroller verwendet.
+
 
 Ziele
 1) einfache grafische Darstellung über Raspberry Pi 3b und angeschlossenen Standard-Touch-Monitor
@@ -16,3 +18,6 @@ Ziele
 Nice to have
 1) Darstellung der Daten über App
 2) ...
+
+
+
