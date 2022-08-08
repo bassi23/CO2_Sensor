@@ -1,0 +1,14 @@
+"/Users/ian/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/ian/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/ian/uni/hiwi/datapin/new/pi/cpp -B /Users/ian/uni/hiwi/datapin/new/pi/cpp/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (include):
+  include could not find requested file:
+
+    /Users/ian/uni/hiwi/datapin/new/pi/cpp/cmake-build-debug/conanbuildinfo.cmake
+
+
+CMake Error at CMakeLists.txt:7 (conan_basic_setup):
+  Unknown CMake command "conan_basic_setup".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/ian/uni/hiwi/datapin/new/pi/cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/ian/uni/hiwi/datapin/new/pi/cpp/cmake-build-debug/CMakeFiles/CMakeError.log".
