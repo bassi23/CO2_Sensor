@@ -204,7 +204,7 @@ public class I2CMode implements Mode {
             throw new ScdException(e);
         }
     }
-    
+
     private float getAsFloat(I2CMessage message) {
         short a = message.getNextShort();
         short b = message.getNextShort();
