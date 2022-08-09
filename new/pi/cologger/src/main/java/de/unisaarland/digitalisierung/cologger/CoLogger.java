@@ -7,7 +7,9 @@ package de.unisaarland.digitalisierung.cologger;
 
 public class CoLogger {
 
-    
+    public static void main(String[] args) {
+
+    }
 
 
 
