@@ -1,5 +1,0 @@
-[requires]
-i2c-tools/4.3
-
-[generators]
-cmake
